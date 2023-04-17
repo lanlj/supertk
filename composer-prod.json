@@ -1,0 +1,25 @@
+{
+    "name": "lanlj/supertk",
+    "description": "Lan Lijun's secondary development of supertk.",
+    "type": "project",
+    "homepage": "https://works.lanlj.com/php/supertk/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lan Lijun",
+            "email": "jun@lanlj.com",
+            "homepage": "https://lanlj.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "lanlj/framework": "*"
+    },
+    "autoload": {},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/lanlj/framework"
+        }
+    ]
+}
